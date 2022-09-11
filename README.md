@@ -15,3 +15,4 @@ the files in the repo:
 There is only one file that contains the data exploration and manipulation. First I clean the dataset and then answer the three questions above.
 
 
+Here is the blog about my findings: https://eveyang1211.medium.com/start-right-for-your-airbnb-a92f363d36fb?postPublishedType=initial
